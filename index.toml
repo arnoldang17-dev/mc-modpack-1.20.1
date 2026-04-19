@@ -641,6 +641,11 @@ file = "mods/Zeta-1.0-31.jar"
 hash = "cd1786902a79434f8fd762d741019d9c8a79725fef7e30a89c153c934e1e6a9e"
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
+metafile = true
+
+[[files]]
 file = "mods/balm-forge-1.20.1-7.3.38-all.jar"
 hash = "cbe8008218f0f574bc1f78b532cac5f978c33bf36ae2e14805340eab445fdb08"
 
@@ -697,6 +702,11 @@ file = "mods/jupiter-2.3.7-1.20.1-forge.jar"
 hash = "1c2442a90a0228d76518bece4484241e3d2c79e50eb4435afe5e7fc0fbcaac3d"
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "873d23ad2ce05e3e92a05e011f3f9a375a745a4ca6ed4c9fffb0518fc8255bf7"
+metafile = true
+
+[[files]]
 file = "mods/l2archery-2.5.0.jar"
 hash = "5d3a2fa78b3d69ea8f153f8eb6c6891f9b597fcccf41db6d391c8dae061340b9"
 
@@ -713,12 +723,22 @@ file = "mods/l2library-2.5.3.jar"
 hash = "c36a9c5c93b6114c15aea11d084600a8ed230f179f1b70d6222633a50f77fc18"
 
 [[files]]
+file = "mods/lootjs.pw.toml"
+hash = "de2643b3bb36e6b5fd97540bd79619e0844293b43487ecce1613165a409ce8cc"
+metafile = true
+
+[[files]]
 file = "mods/pml-1.0.4b-all.jar"
 hash = "ff94c553551e1a862dd5f0d24936794dc496b66cd1a4d60bd4d7dfe34187989f"
 
 [[files]]
 file = "mods/quality_forked-1.0.7-all.jar"
 hash = "052d5654832dfd03582dab018ecc4e63d03ce56681e5c5359c20972c318e7abe"
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "ca4411ac6d8a9a892948bb63cd0ba52ae5523ca5e257632d6ae8c933b660c5ee"
+metafile = true
 
 [[files]]
 file = "mods/spartanfire-1.20.1-2.1.0.jar"
