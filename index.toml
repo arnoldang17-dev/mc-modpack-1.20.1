@@ -1,0 +1,758 @@
+hash-format = "sha256"
+
+[[files]]
+file = "README.md"
+hash = "0c9c0efe2cf616bb4fc4916e0b404ecce3186493ce5cc5adc75edc28d01d88cf"
+
+[[files]]
+file = "config/ForgottenNunchakus.toml"
+hash = "572ba826ce6b292483a0ac9da2581f2f9fdf26f02853eef84889ea134b14510a"
+
+[[files]]
+file = "config/InventoryHUD/curios.json"
+hash = "abaec3a886937ad5f0e623f5a3f504f50d922e383441dfa5899b2da29a2fdaaa"
+
+[[files]]
+file = "config/aquaculture-common.toml"
+hash = "aff201054383adfd67347e968dd6aeaccd339454d51dd50983654b2c732acc31"
+
+[[files]]
+file = "config/bettersurvival-client.toml"
+hash = "c2118d55f729b316fd939c84e91bac44cfeef2339e89a723e95f951279759f88"
+
+[[files]]
+file = "config/bettersurvival-common.toml"
+hash = "6199b986b30462ef9bc6a8eecdfe8d7cf3b2b8ddc4a35e346a6b5f467f276f59"
+
+[[files]]
+file = "config/citadel-common.toml"
+hash = "3fcd8013137a86c00953d4be1e56945b84b87594be722bbf3b3be8d752e2577f"
+
+[[files]]
+file = "config/connector.json"
+hash = "333880a6715f20f3799a25ad4d0702c36baeedfb2ca8841c314debdad8ecc17a"
+
+[[files]]
+file = "config/curios-client.toml"
+hash = "ebc96c813d601e9c61b6929a8490e71fa990dc64918c19e1f9937bb275510abc"
+
+[[files]]
+file = "config/curios-common.toml"
+hash = "5fe808869d46a4b80e1191fbe40f40a4d63987beda0eaeb2d89b909a990ea2ea"
+
+[[files]]
+file = "config/enchdesc.json"
+hash = "69e1df6089b71c3c2fe2c7cf6760937094fd22434111f527229a9fcea3f90bc5"
+
+[[files]]
+file = "config/enhancedai/Mobs/Break anger/break_anger_config.json"
+hash = "e0a278dff7557ed0d4f37c434fa093fdc1eba545eb38135fe9801835b83b6d11"
+
+[[files]]
+file = "config/enhancedai/Mobs/Shielding/shield_block_chance.json"
+hash = "a87c7cb46437abbdbbed2c349b0cc86c116e4212814b3f7cbf4a872253da70a9"
+
+[[files]]
+file = "config/enhancedai/common.toml"
+hash = "3570e8c8e20c5dad93b4a5ea154c06141dc34d531ef9266dc182ca3d6d4e7df7"
+
+[[files]]
+file = "config/entity_model_features.json"
+hash = "5ba15e6be08f7af62d0776ce1a570033d53e1be14fb5d573f22a6f7c76c8a52f"
+
+[[files]]
+file = "config/entity_texture_features.json"
+hash = "d8d72a9ac49bbe45921f1ace5a22c30b65802c5e70829343cf7acfd25f79b8dc"
+
+[[files]]
+file = "config/etf_warnings.json"
+hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "5fe59fb00ec29188251acc1456f2c229015ccbbd4ce121242dcd18841e86a386"
+
+[[files]]
+file = "config/fml.toml"
+hash = "eb6e8b8eda9682889a83d55262ef96cf37153d58fe7f0fa5d5cb1da5d9f7dd9b"
+
+[[files]]
+file = "config/forge-client.toml"
+hash = "0b1b3c45343435184c9dde3149b38afcdb97953e287686ecda54385f53ebcddc"
+
+[[files]]
+file = "config/iceandfire-client.toml"
+hash = "cda35c328969c68f4d112bbf3d537a8015b702610a0bf63f4bd1bf81e4c3e4ee"
+
+[[files]]
+file = "config/iceandfire-common.toml"
+hash = "f4f30bb8fc7e695be65bad46edf7233faa1d45ab92dd052a7e6891f0e0b97aa4"
+
+[[files]]
+file = "config/iceandfire/amphithere_biomes.json"
+hash = "8730e2dce9c9ace12a78d09a5a2dc60b9fb1930573a332c88c91d85e835da45b"
+
+[[files]]
+file = "config/iceandfire/cockatrice_biomes.json"
+hash = "22c133e388a175ce1ee6ad216cfe3d15dcb00690d9148935d7bd12177cf621ad"
+
+[[files]]
+file = "config/iceandfire/cyclops_cave_biomes.json"
+hash = "3778eece8d5b72c84eebde472ca36972ae441f47d8165d369f04f942f33e0f56"
+
+[[files]]
+file = "config/iceandfire/deathworm_biomes.json"
+hash = "812e90492399e7d63cc4465335d4607b16eceaa3223153215e3a89acf75613f5"
+
+[[files]]
+file = "config/iceandfire/desert_myrmex_biomes.json"
+hash = "812e90492399e7d63cc4465335d4607b16eceaa3223153215e3a89acf75613f5"
+
+[[files]]
+file = "config/iceandfire/fire_dragon_biomes.json"
+hash = "05dbf7565164ee69e093cfeabf6216e3ebc4dc8e856c77bc943cbe12551cea39"
+
+[[files]]
+file = "config/iceandfire/fire_dragon_cave_biomes.json"
+hash = "05dbf7565164ee69e093cfeabf6216e3ebc4dc8e856c77bc943cbe12551cea39"
+
+[[files]]
+file = "config/iceandfire/fire_dragon_skeleton_biomes.json"
+hash = "812e90492399e7d63cc4465335d4607b16eceaa3223153215e3a89acf75613f5"
+
+[[files]]
+file = "config/iceandfire/fire_lily_biomes.json"
+hash = "5eefc56df28bd16c5c545275f76ac634e68061410c9aa917739ebb060895a641"
+
+[[files]]
+file = "config/iceandfire/forest_troll_biomes.json"
+hash = "5c3d5c7e83adf7d57d82b494d8c0adf6861024cea1ba99872411724b40ab8210"
+
+[[files]]
+file = "config/iceandfire/frost_lily_biomes.json"
+hash = "f59298485c71b35a9c95a75a3d07255bcfb8f30a653ddf1bf1db6407e25ec65d"
+
+[[files]]
+file = "config/iceandfire/gorgon_temple_biomes.json"
+hash = "3778eece8d5b72c84eebde472ca36972ae441f47d8165d369f04f942f33e0f56"
+
+[[files]]
+file = "config/iceandfire/graveyard_biomes.json"
+hash = "5e11cda32e6fd2a6c916aab2693e8387f8f38513347612e421da78ece907e389"
+
+[[files]]
+file = "config/iceandfire/hippocampus_biomes.json"
+hash = "bb18ad84c0ac0679f3e5e01386f2c8dfeccdace45807ec86b180c9849cebee2b"
+
+[[files]]
+file = "config/iceandfire/hippogryph_biomes.json"
+hash = "426534637409e08e7ad2ada0bee9cf44d722d0ee5865aba1ea70128e440d1d9e"
+
+[[files]]
+file = "config/iceandfire/hippogryph_black_biomes.json"
+hash = "e787534e8571b32aa464c4740ba3e788506f29b234b075ed96109a223474a21d"
+
+[[files]]
+file = "config/iceandfire/hippogryph_brown_biomes.json"
+hash = "ad4b346351c8ee296dd987e621f230881b459f3bf4e0037daf2fe657f04f8bda"
+
+[[files]]
+file = "config/iceandfire/hippogryph_chestnut_biomes.json"
+hash = "329e08c143cc84447caf9bce4758d15d37a92c5d6fb427f9def01eb64ca97b7c"
+
+[[files]]
+file = "config/iceandfire/hippogryph_creamy_biomes.json"
+hash = "55f59a5b80df48d34b8500a08661ba487cc3d636d56c404f2a973223cd1915f4"
+
+[[files]]
+file = "config/iceandfire/hippogryph_dark_brown_biomes.json"
+hash = "bdba7fc2e573a69e827f23c74fc7f7287a35f32d5a86743820159af49d549d61"
+
+[[files]]
+file = "config/iceandfire/hippogryph_gray_biomes.json"
+hash = "c2a2170da418d1be0707c33664b2ef61b8193e3262ee8df078cd758251356108"
+
+[[files]]
+file = "config/iceandfire/hippogryph_white_biomes.json"
+hash = "ccaa9568dcedffeddfdfc62b4a529baec67358ed0e336e399e3380ad501d4fb5"
+
+[[files]]
+file = "config/iceandfire/hydra_cave_biomes.json"
+hash = "3ad2f6677027f611469c9b3e1bf817e9f89bbd70e887e78a7b29d5efde672c32"
+
+[[files]]
+file = "config/iceandfire/iaf-client.json"
+hash = "b166106e1e7bc52d0d3f245948f8e84ce74c3aea2260f3793982d7a566274c20"
+
+[[files]]
+file = "config/iceandfire/iaf-common.json"
+hash = "436ade3b9ef5ea9afbbe9b6972fc7aee88053632f8b1ded96ac46dd5f07bc998"
+
+[[files]]
+file = "config/iceandfire/ice_dragon_biomes.json"
+hash = "a62e05bde841360b70cc37b40453037735a2c7a8e914dea22a7307e686840c3f"
+
+[[files]]
+file = "config/iceandfire/ice_dragon_cave_biomes.json"
+hash = "a62e05bde841360b70cc37b40453037735a2c7a8e914dea22a7307e686840c3f"
+
+[[files]]
+file = "config/iceandfire/ice_dragon_skeleton_biomes.json"
+hash = "f59298485c71b35a9c95a75a3d07255bcfb8f30a653ddf1bf1db6407e25ec65d"
+
+[[files]]
+file = "config/iceandfire/jungle_myrmex_biomes.json"
+hash = "8730e2dce9c9ace12a78d09a5a2dc60b9fb1930573a332c88c91d85e835da45b"
+
+[[files]]
+file = "config/iceandfire/lightning_dragon_biomes.json"
+hash = "88ae214c467f19819cc8ec851407d27c86a3e9b28d9dbdc675aaac12e93d0b54"
+
+[[files]]
+file = "config/iceandfire/lightning_dragon_cave_biomes.json"
+hash = "88ae214c467f19819cc8ec851407d27c86a3e9b28d9dbdc675aaac12e93d0b54"
+
+[[files]]
+file = "config/iceandfire/lightning_dragon_skeleton_biomes.json"
+hash = "22c133e388a175ce1ee6ad216cfe3d15dcb00690d9148935d7bd12177cf621ad"
+
+[[files]]
+file = "config/iceandfire/lightning_lily_biomes.json"
+hash = "22c133e388a175ce1ee6ad216cfe3d15dcb00690d9148935d7bd12177cf621ad"
+
+[[files]]
+file = "config/iceandfire/mausoleum_biomes.json"
+hash = "0c43081ae92fbbcc77633ec8c9427ed72677181b6191ae83b76cd3fa40cb643f"
+
+[[files]]
+file = "config/iceandfire/mountain_troll_biomes.json"
+hash = "ad4b346351c8ee296dd987e621f230881b459f3bf4e0037daf2fe657f04f8bda"
+
+[[files]]
+file = "config/iceandfire/ore_gen_biomes.json"
+hash = "3d5fd3f45bff47cc86ad6baaddea4c482db43d4982e9aa9bd6d14f3c295c6e98"
+
+[[files]]
+file = "config/iceandfire/pixie_village_biomes.json"
+hash = "4d13d58eb931249b4b6043586af74cf7182b162a148102d2b1fba72d055a36b3"
+
+[[files]]
+file = "config/iceandfire/sapphire_gen_biomes.json"
+hash = "f59298485c71b35a9c95a75a3d07255bcfb8f30a653ddf1bf1db6407e25ec65d"
+
+[[files]]
+file = "config/iceandfire/sea_serpent_biomes.json"
+hash = "bb18ad84c0ac0679f3e5e01386f2c8dfeccdace45807ec86b180c9849cebee2b"
+
+[[files]]
+file = "config/iceandfire/siren_biomes.json"
+hash = "bb18ad84c0ac0679f3e5e01386f2c8dfeccdace45807ec86b180c9849cebee2b"
+
+[[files]]
+file = "config/iceandfire/snowy_troll_biomes.json"
+hash = "26ebe981bf639e0faae4fdf371d253336606306c4658c56654b6599d11b171b9"
+
+[[files]]
+file = "config/iceandfire/stymphalian_bird_biomes.json"
+hash = "3ad2f6677027f611469c9b3e1bf817e9f89bbd70e887e78a7b29d5efde672c32"
+
+[[files]]
+file = "config/iceandfire/wandering_cyclops_biomes.json"
+hash = "12375edc88eb81e9bc6cd28d06a5a5cfabc40cc27f1da1bf3c92874796e61203"
+
+[[files]]
+file = "config/insanelib.toml"
+hash = "31f2eeaf582586f6539c808ca4d38d10e45afc12bed2a46555ee074964036f6d"
+
+[[files]]
+file = "config/inventoryhud-client.toml"
+hash = "5731948d1d1d143351575fa9111362ed1085d8a43f79e50bf3d22e6bf1337015"
+
+[[files]]
+file = "config/inventorysorter-client.toml"
+hash = "92de49a9405703845f2da9cde2b77dfa75c0088217c0c7a94d4e9ea200cf0549"
+
+[[files]]
+file = "config/jei/blacklist.cfg"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/jei/ingredient-list-mod-sort-order.ini"
+hash = "2a6ae669dbb45fd84226bde774b9b95026091d5f16c4c0dfe267bf1004fe4eed"
+
+[[files]]
+file = "config/jei/ingredient-list-type-sort-order.ini"
+hash = "39b5426fb7faf645a83c210d457352b05f64859d4b9adb58242c113c2c8e6878"
+
+[[files]]
+file = "config/jei/jei-client.ini"
+hash = "30503916553a0a302f433abd1c99a54303312cf426b7a6b49d0dff0461c82aba"
+
+[[files]]
+file = "config/jei/jei-colors.ini"
+hash = "5f37aacd70460fdc2631ff45e98e8a2ce4e52d3e9a50917edf40eeed1236952e"
+
+[[files]]
+file = "config/jei/jei-debug.ini"
+hash = "ee9bb0f0f8465629951fe9a532f3ebe3327671a12d4cc6395860d7f7494b970b"
+
+[[files]]
+file = "config/jei/jei-mod-id-format.ini"
+hash = "326b4f9b813ca8183bfaeee184cf7248c7a75c4d85b59322e349c0e964c253f3"
+
+[[files]]
+file = "config/jei/recipe-category-sort-order.ini"
+hash = "673169fc8914edf93d0fdbac4d6d59fd4b4abce883d17a73da799f3179adfbb0"
+
+[[files]]
+file = "config/jlme.toml"
+hash = "4284e339a54b4cf2ca32b9944cb64ef8f4e189ae9a05b3754c9aafb77fa0f2fb"
+
+[[files]]
+file = "config/jlme_compatibility.toml"
+hash = "f3ceaca735c57852184af45155a2a84f89e460d780b0d8a83ef35cc0d749bf83"
+
+[[files]]
+file = "config/jupiter.json"
+hash = "a70ba2b6312196eefc58bd4dc10664e1f76eaee79aa73c2137e5ecaadb661062"
+
+[[files]]
+file = "config/l2_configs/l2archery-client.toml"
+hash = "44cfc1de28ff7e67dfe95dd49e82eaf76a85a5eb8eed30e253dbedd4c149f327"
+
+[[files]]
+file = "config/l2_configs/l2backpack-client.toml"
+hash = "90ef2b16b453ca9d94eeb60e73a3f375dfddfbcf421396ab11291ef1f74646ab"
+
+[[files]]
+file = "config/l2_configs/l2backpack-common.toml"
+hash = "fd3b4e651833ab56dc64b1a7794cfcb69db740e44278e275da6fed27de2bff2b"
+
+[[files]]
+file = "config/l2_configs/l2complements-client.toml"
+hash = "157874d28ecc8a331401121e3a5ba73436e804fce2e4568815a6ec65750be0fb"
+
+[[files]]
+file = "config/l2_configs/l2complements-common.toml"
+hash = "ddc41c7ddb003e64aaa045bd983589ef87ccc8485ec31fb92b7c1cb94d196def"
+
+[[files]]
+file = "config/l2_configs/l2damagetracker-common.toml"
+hash = "1c463140aa15bb43e2e47095eaca771af48f295f6f1e522ecb60aa8da370b347"
+
+[[files]]
+file = "config/l2_configs/l2library-client.toml"
+hash = "422c3bc86a61d9f71fe51255afcf123cb8a107a727df8c295c516bd9cdfc35fa"
+
+[[files]]
+file = "config/l2_configs/l2library-common.toml"
+hash = "1200e86c053c1bc905bfe01a6b69bc09c0ad21feae8ee25c23c48d345672a4f8"
+
+[[files]]
+file = "config/l2_configs/l2screentracker-client.toml"
+hash = "cc8a21a4268501c79be5cca344c60ba060c485a5c7be4ba4d4fe328656d52d81"
+
+[[files]]
+file = "config/l2_configs/l2screentracker-common.toml"
+hash = "1ea62c0ca1893ce7b5b1aacbbd0f4f453ac6d6542d652fe2af9d4b2a4947c55f"
+
+[[files]]
+file = "config/l2_configs/l2tabs-client.toml"
+hash = "37c41224fe3e885e528dab76997fbfd0feb7271805bfb66e45e115c7e7d5a952"
+
+[[files]]
+file = "config/l2_configs/l2tabs-common.toml"
+hash = "3d3161f3803898d2b46a96c5da15c77b73972af129ef094f2293b516e1ba5f33"
+
+[[files]]
+file = "config/pehkui-client.toml"
+hash = "18741b2cf056e7609eac3dabe966569a12a819ab03e083c873c85c27a52929a7"
+
+[[files]]
+file = "config/pehkui-common.toml"
+hash = "8a4afcf7a631191fbe6a1416b4d16f55584deb22dd90ec7ec337fdf444a92ba7"
+
+[[files]]
+file = "config/pmlconfig.toml"
+hash = "f8cd5e78ccb217513bbe8d5ab071066a7108b39a8acd50b7bb4ba7dcb5e90f04"
+
+[[files]]
+file = "config/qualityequipmentfork.toml"
+hash = "e5e3df1a387288e03542954e0bdc1831d67e44f5357a4c882b838099e6e7931d"
+
+[[files]]
+file = "config/qualityequipmentfork_client.toml"
+hash = "23fffa28dea10c58b0dd029aec5d7788245566765c27c16a229c415efc7570b5"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "fedbbde3fe40c39afe3628c07d6ca35c40c8626a715d47a6048c34748b44f606"
+
+[[files]]
+file = "config/scaling-animations.toml"
+hash = "40ea8fa62b6b6137633c73c7db760cce4b4e415b3126872679f811f0fe96ea6e"
+
+[[files]]
+file = "config/spartanweaponry-client.toml"
+hash = "952a740c334c82e9140b05eed23565f025ea066658659ae86464c4c9e9efc38e"
+
+[[files]]
+file = "config/spartanweaponry-common.toml"
+hash = "db834f430099b0190834443f7513f3c5cdfa00dc5b5870cc5f1897c31d10153e"
+
+[[files]]
+file = "config/trinketsandbaubles-common.toml"
+hash = "07da42b3cc99b1ed966a1bbd89b60d472fc25c204b63c5f75e94541dce742a39"
+
+[[files]]
+file = "config/trinketsandbaubles-races.toml"
+hash = "4a3245d300ec8a9b28ae70e0b49cf5789cddf465b966a74372ba8af9ef4fb7d2"
+
+[[files]]
+file = "config/waystones-common.toml"
+hash = "4cf1d13d8827bcdce75acadb1f3ea24732fd6fa6575ec8a261a37b21c481674d"
+
+[[files]]
+file = "config/zeta-common.toml"
+hash = "684816927033626b990f8e277a43c0e24f6ef650cb38f9fee935f974fffd7392"
+
+[[files]]
+file = "icon.png"
+hash = "aba93480387ce59f4f8ec4157ec0c07b3c8243088df535bc9cdd61acd8e869a2"
+
+[[files]]
+file = "mods/.index/balm.pw.toml"
+hash = "9b62fc19db91724c26612211efca103895912978b419d9e81fc3842feac33047"
+metafile = true
+
+[[files]]
+file = "mods/.index/bookshelf.pw.toml"
+hash = "8044b7f18cfc48e09b52de299705d0f0253d88c8691f5d05c5e67d118a3c16a5"
+metafile = true
+
+[[files]]
+file = "mods/.index/citadel.pw.toml"
+hash = "480081571da87f5d38b8757eba70489bd15f5c847de2a042b5d2de6dab8ac053"
+metafile = true
+
+[[files]]
+file = "mods/.index/curios.pw.toml"
+hash = "52d319593114652d1533fb2d0e54674875770686b87b7ea93ce20cf94f5c0718"
+metafile = true
+
+[[files]]
+file = "mods/.index/enchantment-descriptions.pw.toml"
+hash = "16662e88a89585d1c75c0ede7e16672c7e81f8c7f6f0ed6a2449a134e35b0bfa"
+metafile = true
+
+[[files]]
+file = "mods/.index/enhanced-ai.pw.toml"
+hash = "15b18774de795faed263756a3f9498214cee0cd6957ff590b4a534e5a87f3bd8"
+metafile = true
+
+[[files]]
+file = "mods/.index/entity-model-features.pw.toml"
+hash = "d6ff1ca25c89e92c78258e63e475aeaafa97ecb2705f18615b780cdd44fd5e9b"
+metafile = true
+
+[[files]]
+file = "mods/.index/entity-texture-features-fabric.pw.toml"
+hash = "6aebb69ab6466b35f758448a92474db96e3be3b69f0203eb387265bf10c08473"
+metafile = true
+
+[[files]]
+file = "mods/.index/forgified-fabric-api.pw.toml"
+hash = "8cbd0dec0bf536ca66a70435dc5daef83727ceef38cb03baf62d66c8e0a11a04"
+metafile = true
+
+[[files]]
+file = "mods/.index/forgotten-nunchakus.pw.toml"
+hash = "6aff7b96c2fbb9361610b571ef208aa9d30d4e36e2bac7cf9ac997b115a59b67"
+metafile = true
+
+[[files]]
+file = "mods/.index/ice-and-fire-dragons.pw.toml"
+hash = "6ab7dfb54a1c77c6a2d540710c053ee872e43ceea1b67e11eb67731d8145b61c"
+metafile = true
+
+[[files]]
+file = "mods/.index/insanelib.pw.toml"
+hash = "bb7e20a918a98d937faff17a7f281707a2a317afbc18cdeb74f67dd380e5e86d"
+metafile = true
+
+[[files]]
+file = "mods/.index/inventory-hud-forge.pw.toml"
+hash = "1f197ff1a6143b1e84cbdd4c00d44f0eaffaad61869367c00b9bc6a19c673259"
+metafile = true
+
+[[files]]
+file = "mods/.index/inventory-sorter.pw.toml"
+hash = "7d56842448dc92b2e255ab0a2dfa26ccb54b16ff5dfae866fc721d5e28238d77"
+metafile = true
+
+[[files]]
+file = "mods/.index/jei.pw.toml"
+hash = "17955c646b1480989c801f55b4e432092cffdc11d46fb5b66c227f39aba795ab"
+metafile = true
+
+[[files]]
+file = "mods/.index/jupiter.pw.toml"
+hash = "2efb50c02b8ff82ecc461960c0db24e600b2ad15e0fd5ba77f5a98fdded7d798"
+metafile = true
+
+[[files]]
+file = "mods/.index/just-a-lot-more-enchantments.pw.toml"
+hash = "91b36774ad38226b970a9eebb0775393db9e2c911c528dfe3e932e8b17cef9a5"
+metafile = true
+
+[[files]]
+file = "mods/.index/l2-archery.pw.toml"
+hash = "f194de8238ca5d6a3a04db7e981ebf47f95e4084804e6f0958f0633293099070"
+metafile = true
+
+[[files]]
+file = "mods/.index/l2-backpack.pw.toml"
+hash = "3d0be3bd638bd101ac9c9c4a760ac21b555cfcaf7d43bb7f771931c67268bf14"
+metafile = true
+
+[[files]]
+file = "mods/.index/l2-complements.pw.toml"
+hash = "a0fe9dcf4727fc30bd6098df8f504d2d0d8305ceebb52f914ea2b871ef8ef374"
+metafile = true
+
+[[files]]
+file = "mods/.index/l2library.pw.toml"
+hash = "d171bbbc84a9e68ee319c1c28835c0607d67ad6324f57b813c3e926b53c7b136"
+metafile = true
+
+[[files]]
+file = "mods/.index/pehkui.pw.toml"
+hash = "38516dff2323c7bb3e743b965e701eea4a3acc96e85ff8af38eae9f0af087521"
+metafile = true
+
+[[files]]
+file = "mods/.index/progressive-mechanics-library.pw.toml"
+hash = "8d8ae1eaac6b5a7e7258f0eb76dd2d5dc9291744a1c351b316bdd180d71abd80"
+metafile = true
+
+[[files]]
+file = "mods/.index/quality-equipment-reforked.pw.toml"
+hash = "83639fac5079b505f6f597c9ff296b2165e6aee8e4d6b6675c2deeb1486219ff"
+metafile = true
+
+[[files]]
+file = "mods/.index/smooth-gui-animations.pw.toml"
+hash = "3150cc490c2e8e66aa90cc3267267eca713a019e5409a2988921756555a02b75"
+metafile = true
+
+[[files]]
+file = "mods/.index/spartan-weaponry-addon-toolkit.pw.toml"
+hash = "33687c70c5cbeb4c87c15bdddf3cd0392716a66c1ec050be83ffa14b447a6a99"
+metafile = true
+
+[[files]]
+file = "mods/.index/spartan-weaponry-ice-and-fire.pw.toml"
+hash = "306ab0e70b42bb1767bc4f0f60e572d9173f871f44de3f6e92eabc3045c4f672"
+metafile = true
+
+[[files]]
+file = "mods/.index/spartan-weaponry.pw.toml"
+hash = "f65d9efecb56e95b3e5712f133440ad78830f5b2172966d80890bb969afc20e1"
+metafile = true
+
+[[files]]
+file = "mods/.index/trinkets-and-baubles-reforked.pw.toml"
+hash = "5931a691323da154c59cd6828cc6586a214cedd21dc5f652e8222d3e329b5403"
+metafile = true
+
+[[files]]
+file = "mods/.index/uranus.pw.toml"
+hash = "858ed3a48ff28777277d9973e79ad9fd1b5600e6aea977783f868148b37edf78"
+metafile = true
+
+[[files]]
+file = "mods/.index/waystones.pw.toml"
+hash = "bc01ca685dafb7864012444128fb874ff50deb50aefeeb787570e72b126a4faa"
+metafile = true
+
+[[files]]
+file = "mods/.index/zeta.pw.toml"
+hash = "c705eafaf45199bb078e6b216408ca0406cb4b0ab471fd8a623c10eca8d9ce84"
+metafile = true
+
+[[files]]
+file = "mods/Aquaculture-1.20.1-2.5.7.jar"
+hash = "4c96cf0dd3363a8e15f9ef6b6bfc00ac7d4791e8e9eeebe19b8092c59e800f8f"
+
+[[files]]
+file = "mods/Bookshelf-Forge-1.20.1-20.2.15.jar"
+hash = "7980d4a0beed1dcd2c283cf65f3c93f6b0085833f3ac490014979c95f1dfaf67"
+
+[[files]]
+file = "mods/EnchantmentDescriptions-Forge-1.20.1-17.1.21.jar"
+hash = "909d1941d4ef6e4b7336738ee31380d6e1117c3c22feb70b64fed47f1cba2b07"
+
+[[files]]
+file = "mods/New folder/AttributeFix-Forge-1.20.1-21.0.5.jar"
+hash = "43ccfd91c1a24d1b3c9d3ccf2dd6a86e9f0c2ba442b111a2238fbff3cf88af11"
+
+[[files]]
+file = "mods/New folder/Patchouli-1.20.1-85-FORGE.jar"
+hash = "05f7b5d52f6b8f0fd7f8b4822fa07a192d1394d83a264309c9d221d6d4fd21c5"
+
+[[files]]
+file = "mods/New folder/l2archery-2.5.0.jar"
+hash = "5d3a2fa78b3d69ea8f153f8eb6c6891f9b597fcccf41db6d391c8dae061340b9"
+
+[[files]]
+file = "mods/New folder/l2artifacts-2.4.28.jar"
+hash = "6ad61b988c4f417cb9435c70fbb26503df6f4cfd06d64386e35af240a8e1f55c"
+
+[[files]]
+file = "mods/New folder/l2backpack-2.5.8.jar"
+hash = "25e0a8b54beca1e025b518211831edbc1a3096d8878132aaa52b5f0146f56d8f"
+
+[[files]]
+file = "mods/New folder/l2hostility-2.5.19.jar"
+hash = "168665d887b34c5bd79311f0f302531cbed3f1954c43d59c23ff8564dc16c65b"
+
+[[files]]
+file = "mods/New folder/l2weaponry-2.6.1.jar"
+hash = "fbbfd1374d36f240597785ebcab41bc8938f58d75c0c90cc2afe2dbd4e3173f1"
+
+[[files]]
+file = "mods/Pehkui-3.8.2+1.20.1-forge.jar"
+hash = "54210f454c166f65a1bcbbfe4ea52e6f73e07844a793c7132f1af4076a0f42fc"
+
+[[files]]
+file = "mods/Quark-4.0-462.jar"
+hash = "c90b96f049d92825c4a103721988c80d72e5ad380d17be46a0f53e114874c478"
+
+[[files]]
+file = "mods/QuarkOddities-1.20.1.jar"
+hash = "230af45e645ebe36f621d0b4362afed6ad0faf940129f4363aaba8058f245576"
+
+[[files]]
+file = "mods/SpartanWeaponry-1.20.1-forge-3.2.1-all.jar"
+hash = "2736ac2dd52a7b3a188df454e61a4154cd36e273fa770f3ab89dcf6e732e88ad"
+
+[[files]]
+file = "mods/Zeta-1.0-31.jar"
+hash = "cd1786902a79434f8fd762d741019d9c8a79725fef7e30a89c153c934e1e6a9e"
+
+[[files]]
+file = "mods/balm-forge-1.20.1-7.3.38-all.jar"
+hash = "cbe8008218f0f574bc1f78b532cac5f978c33bf36ae2e14805340eab445fdb08"
+
+[[files]]
+file = "mods/citadel-2.6.3-1.20.1.jar"
+hash = "56c7ab87348a5292583aac787b6cf11b5193e77f02af1d17ea75a96f8640b3ce"
+
+[[files]]
+file = "mods/curios-forge-5.14.1+1.20.1.jar"
+hash = "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f"
+
+[[files]]
+file = "mods/enhancedai-3.3.6.3.jar"
+hash = "b88f531996eb849bdd572788bbc468377357cc51609823ece0267f8dac248945"
+
+[[files]]
+file = "mods/entity_model_features_1.20.1-forge-3.0.17.jar"
+hash = "1dae988d4a83f3ebdfbf39c80258ff4a736b706752b414edf60fd2945f61e43f"
+
+[[files]]
+file = "mods/entity_texture_features_1.20.1-forge-7.0.13.jar"
+hash = "0aa3cecb97a84c9171fbd7e681ba5f2851bb98419744b2907dc34f7f78c69d17"
+
+[[files]]
+file = "mods/fn-1.0.5d.jar"
+hash = "2c45ad9f1f8fcda868daeaebf9802052dde48009d470312d81c33f56bf669c59"
+
+[[files]]
+file = "mods/iceandfire-2.1.13-1.20.1-beta-5.jar"
+hash = "2b80245fc9b7d6fdc61d71f9892f4c6114eb7f303f65634845aaab25f84d1e82"
+
+[[files]]
+file = "mods/insanelib-1.23.4.4.jar"
+hash = "863f69780ca1c2d73a95bda11ef660c7ce6dd32aa2e3d6ca53bfea26293f2cb0"
+
+[[files]]
+file = "mods/inventoryhud.forge.1.20.1-3.4.26.jar"
+hash = "01d9a2d1e26fffff78eb47f3e4837189e7567dde849810b1bf6d278520c1e971"
+
+[[files]]
+file = "mods/inventorysorter-1.20.1-23.0.11.jar"
+hash = "987bfb57aaaad23189c9747cb7177b8b20208f5fa1f23a09e442ed7711136263"
+
+[[files]]
+file = "mods/jei-1.20.1-forge-15.20.0.129.jar"
+hash = "5e5af05aa082f5844c7b3ed0b3bd9374e160ae1914906f71d90c5656e4e80039"
+
+[[files]]
+file = "mods/jlme-1.20.1forge-ver1.6d-all.jar"
+hash = "ed78fbddcdb5ade8b091fb4783829c8b9632fd09e443611d9e034d7ce561a88a"
+
+[[files]]
+file = "mods/jupiter-2.3.7-1.20.1-forge.jar"
+hash = "1c2442a90a0228d76518bece4484241e3d2c79e50eb4435afe5e7fc0fbcaac3d"
+
+[[files]]
+file = "mods/l2archery-2.5.0.jar"
+hash = "5d3a2fa78b3d69ea8f153f8eb6c6891f9b597fcccf41db6d391c8dae061340b9"
+
+[[files]]
+file = "mods/l2backpack-2.5.8.jar"
+hash = "25e0a8b54beca1e025b518211831edbc1a3096d8878132aaa52b5f0146f56d8f"
+
+[[files]]
+file = "mods/l2complements-2.6.1.jar"
+hash = "2aae9d5fc4286f2952939f9edda636ad85d6a9451c960d1c2ece6732b8862e43"
+
+[[files]]
+file = "mods/l2library-2.5.3.jar"
+hash = "c36a9c5c93b6114c15aea11d084600a8ed230f179f1b70d6222633a50f77fc18"
+
+[[files]]
+file = "mods/pml-1.0.4b-all.jar"
+hash = "ff94c553551e1a862dd5f0d24936794dc496b66cd1a4d60bd4d7dfe34187989f"
+
+[[files]]
+file = "mods/quality_forked-1.0.7-all.jar"
+hash = "052d5654832dfd03582dab018ecc4e63d03ce56681e5c5359c20972c318e7abe"
+
+[[files]]
+file = "mods/spartanfire-1.20.1-2.1.0.jar"
+hash = "be4413b59cd2619fee2529164b68936c86ac010de43665afdb8fffb43c51fc66"
+
+[[files]]
+file = "mods/spartantoolkit-1.20.1-1.6.1.jar"
+hash = "e33951b88742d7547c898e1594511bc22329b5638469120ce04e96f806613ca7"
+
+[[files]]
+file = "mods/trinketsandbaubles-1.3.1.jar"
+hash = "9e30b72ec3197a6bc9eac6dfff112fccfb7b0999eb0d25dab94372e4484f86c3"
+
+[[files]]
+file = "mods/uranus-2.2.6-bugfix.2-1.20.1-forge.jar"
+hash = "00a868ea93363a3dbc2b5bdc3843692504294d16e94c014b563dafae7e68369f"
+
+[[files]]
+file = "mods/waystones-forge-1.20.1-14.1.20.jar"
+hash = "5ecc6535596b5954f6293224be6b35805c64f4d4aedc2b9e32d9508dd529cabd"
+
+[[files]]
+file = "resourcepacks/+1.21.3 Fresh Moves v3.1.1 (With Animated Eyes).zip"
+hash = "9100888b1153418ccb41b5af053d41e01f297ecd2da2d0ed031819177017638b"
+
+[[files]]
+file = "resourcepacks/.index/fresh-moves.pw.toml"
+hash = "575faf77a487a0ccd6b60a21462336c3d593e2c5d22d622f8716b242cdf4f380"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Neptunium_Vanilla_Style_1.1.zip"
+hash = "b60980203ad9825daf4cd50098102eeba7da4ed8b3cf38a3daa03a44eb3542f1"
+
+[[files]]
+file = "resourcepacks/Quark Programmer Art.zip"
+hash = "41cb720cf256a12ea247b2f38068b363aa5b1675470c4b5aa66850701a78bc4d"

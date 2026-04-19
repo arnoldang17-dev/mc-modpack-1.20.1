@@ -1,0 +1,13 @@
+name = "DRX MC"
+author = "DRX Team"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c2b92e8e7dc1fcda3b7631f788a44cab33fb37bdd67e8d08313937f53c72016b"
+
+[versions]
+forge = "47.4.10"
+minecraft = "1.20.1"

@@ -1,0 +1,39 @@
+# output minecraft
+.mixin.out/
+logs/
+crash-reports/
+screenshots/
+saves/
+server-resource-packs/
+
+# client settings
+options.txt
+usercache.json
+usernamecache.json
+fabricloader.log
+.qmenu_opened.marker
+data/fabricDefaultResourcePacks.dat
+config/jei/world/
+
+# temp files minecraft
+*.log
+*.log.gz
+*.tmp
+*.bak
+*.disabled
+*.DS_Store
+Thumbs.db
+
+# generated jars, zips, and local exports
+mods/*.jar
+resourcepacks/*.zip
+shaderpacks/
+exports/
+.tools/
+
+# packwiz
+.packwiz/
+packwiz-installer-bootstrap.jar
+
+# kubejs
+kubejs/exported/
