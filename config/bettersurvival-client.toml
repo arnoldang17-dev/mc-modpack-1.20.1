@@ -1,0 +1,8 @@
+
+#Client settings
+[client]
+	#Prevent custom shields from changing FoV.
+	fovShields = true
+	#Prevent FoV changes completely.
+	staticFOV = false
+

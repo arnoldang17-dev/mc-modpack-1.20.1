@@ -1,0 +1,17 @@
+filename = 'l2library-2.5.3.jar'
+name = 'L2 Library'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'l2library-2.5.3.jar'
+
+[download]
+hash = '7841eba7e6fa4830ffe6a04034ae0926e22db691'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6806000
+project-id = 620203

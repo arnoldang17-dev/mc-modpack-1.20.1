@@ -1,0 +1,4 @@
+[11:06:49] [WARN] [FabricLoader/Resolution]: Mod resolution failed
+[11:06:49] [INFO] [FabricLoader/Resolution]: Immediate reason: [HARD_DEP_NO_CANDIDATE somanyenchantments 0.4.1 {depends enchantedlib @ [>=0.3.0]}, ROOT_FORCELOAD_SINGLE somanyenchantments 0.4.1]
+[11:06:49] [INFO] [FabricLoader/Resolution]: Reason: [HARD_DEP somanyenchantments 0.4.1 {depends enchantedlib @ [>=0.3.0]}]
+[11:06:49] [INFO] [FabricLoader/Resolution]: Fix: add [add:enchantedlib 0.3.0 ([[0.3.0,∞)])], remove [], replace []

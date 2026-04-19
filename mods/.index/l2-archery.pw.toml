@@ -1,0 +1,17 @@
+filename = 'l2archery-2.5.0.jar'
+name = 'L2 Archery'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'l2archery-2.5.0.jar'
+
+[download]
+hash = 'b301163065c33d44550e1e477fa78e2b3770ab62'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6234712
+project-id = 758353
